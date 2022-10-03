@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "shortcup.json"
+  ],
+  "homeserver_url": "https://neo.angry.im"
+}
